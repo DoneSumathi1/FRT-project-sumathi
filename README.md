@@ -5,7 +5,7 @@ This is a web based application developed for Agriculture related telugu based w
 ### This web based Fruitage application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -
+*Project Link* - https://victorious-coast-05251cc00.2.azurestaticapps.net
 
 *Project demo video link  -
 
