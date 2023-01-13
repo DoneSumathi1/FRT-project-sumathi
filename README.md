@@ -1,4 +1,4 @@
-# ✨ Telugu Health  ✨
+# ✨ FRUITAGE  ✨
 
 This is a web based application developed for Agriculture related telugu based website in india
 
@@ -13,6 +13,7 @@ This is a web based application developed for Agriculture related telugu based w
 
 
 ### Azure technologies used in project-
+
 1. Azure health bot
 2. Azure static webapps
 
@@ -30,7 +31,7 @@ This is a web based application developed for Agriculture related telugu based w
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, different types of fruits topics and Fruits related information etc.
+- Has collection of many web pages including Home, About Us, Services, Gallery, Our work, Testimonials, What we do, Statistics, conntact us, healthbot different   types of fruits topics and Fruits related information etc.
 - User can know about Fruits information through this website.
 - Included the feedback Survey google form to increase the scope of improvement 
 
