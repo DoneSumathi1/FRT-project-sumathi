@@ -7,7 +7,7 @@ This is a web based application developed for Agriculture related telugu based w
 
 *Project Link* - https://victorious-coast-05251cc00.2.azurestaticapps.net
 
-*Project demo video link  -
+*Project demo video link  -  https://youtu.be/dpUzQuia7qM
 
 
 
